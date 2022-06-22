@@ -1,0 +1,68 @@
+body
+{
+	background:rgb(45, 140, 248);
+}
+
+#output
+{
+	background-color:rgb(255, 0, 234);
+	padding: 10px;
+	float: none;
+	border-radius: 15px;
+}
+
+#player_1_name , #player_2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+
+h3 {
+
+    color:rgb(21, 255, 0);
+    font-weight:600;
+
+}
+
+button {
+
+    background-color:rgb(255, 119, 8);
+    padding-bottom: 5px;
+    padding-top: 5px;
+    font-size: 15px;
+    border-radius: 5px;
+    font-weight:600;
+    border-width: 1px;
+    color:rgb(255, 255, 255);
+
+}
+
+h2 {
+
+    color:rgb(83, 0, 161);
+    font-weight:600;
+
+}
+
+h5 {
+
+    font-weight: 600;
+    color:rgb(0, 255, 234);
+
+}
+
+#question_ {
+
+    color:rgb(251, 255, 0);
+    font-weight: 600;
+    font-size: 20px;
+
+}
+
+#label_answer {
+
+    color:rgb(255, 0, 0);
+    font-weight: 600;
+    font-size: 20px;
+
+}
